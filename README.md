@@ -8,7 +8,7 @@
 - ↪️ Database and SQL, _Business Case Studies_, _Machine Learning, Predictive Analysis, Time Series Analysis and Forecasting, Quantitative Research Methods, 
    Big Data_. 
    _Generate business insights by developing and using databases, big data and machine learning;Develop effective business strategies, tactics and processes based on data-driven analytics; Support business decision making with advanced statistical and quantitative analysis; and advanced data visualization and communications tools and techniques._
-- 💞️ ****I’m Seeking for internship/ Co-op in SUMMER 2023****
+- 🙏🏼 ****I’m Seeking for internship/ Co-op in SUMMER 2023****
 - 📫 How to reach me ➡️ [LinkedIn](https://www.linkedin.com/in/ophelia-yifen-chen-05890485/). 
 
 <!---
