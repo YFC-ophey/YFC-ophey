@@ -1,9 +1,9 @@
-[![MasterHead]([https://tenor.com/view/data-analysis-graph-chart-gif-23151718](https://unsplash.com/photos/fyeOxvYvIyY))](https://unsplash.com/)
+
 
 <h1 align="center">Hi 👋, I'm Ophelia Chen</h1>
 <h3 align="center">A Post-grad student in Business Analytics @Humber from 🇹🇼</h3>
 
-<img align="" alt="Coding" width="400" src=>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yfc-ophey&label=Profile%20views&color=0e75b6&style=flat" alt="yfc-ophey" /> </p>
