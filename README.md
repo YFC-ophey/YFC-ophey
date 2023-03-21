@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Predictive Analysis, Big Data**
 
-- 👯 I’m looking to collaborate on **SQL Data Analysis**
+- 👯 I’m looking to collaborate on **SQL, Pyhton & Data Analysis**
 
 - 🤝 I’m looking for help with **Python | NumPy | Pandas**
 
