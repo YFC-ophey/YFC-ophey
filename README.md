@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Python | NumPy | Pandas**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://opheliayfchen.carrd.co/)
+- 👨‍💻 All of my projects are available at **GitHub** | [My Portfolio](https://opheliayfchen.carrd.co/)
 
 - 💬 Ask me about **Data Analysis | CareerTransition | CollegeLife**
 
