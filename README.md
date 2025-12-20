@@ -6,19 +6,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yfc-ophey&label=Profile%20views&color=0e75b6&style=flat" alt="yfc-ophey" /> </p>
 
 
-- 🌱 I’m currently learning **Machine Learning, Predictive Analysis, Big Data**
-
-- 👯 I’m looking to collaborate on **SQL, Pyhton & Data Analysis**
-
-- 🤝 I’m looking for help with **Python | NumPy | Pandas**
+- 🌱 I’m currently building tools **Machine Learning, Predictive Analysis, Big Data**
 
 - 👨‍💻 All of my projects are available at **GitHub** | [My Portfolio](https://opheliayfchen.carrd.co/)
 
-- 💬 Ask me about **Data Analysis | CareerTransition | CollegeLife**
+- 💬 Ask me about **Work in Tech | Data | CareerTransition | AI LLMs**
 
 - 📫 How to reach me give me a shout at **opheliachenyf@gmail.com**
 
-- ⚡ Fun fact **I'm a huge tennis fan but I don't know how to play properly.**
+- ⚡ Fun fact **I was a police officer for 10 years in 🇹🇼**
 
 
 <h3 align="left">Connect with me:</h3>
