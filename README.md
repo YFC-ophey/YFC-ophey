@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yfc-ophey&label=Profile%20views&color=0e75b6&style=flat" alt="yfc-ophey" /> </p>
 
 
-- 🌱 I’m currently building tools **Machine Learning, Predictive Analysis, Big Data**
-
 - 👨‍💻 All of my projects are available at **GitHub** | [My Portfolio](https://opheliayfchen.carrd.co/)
 
 - 💬 Ask me about **Work in Tech | Data | CareerTransition | AI LLMs**
