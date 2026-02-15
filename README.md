@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yfc-ophey&label=Profile%20views&color=0e75b6&style=flat" alt="yfc-ophey" /> </p>
 
 
-- 👨‍💻 All of my projects are available at **GitHub** | [My Portfolio](https://opheliayfchen.carrd.co/)
+- 👨‍💻 My projects are available at **GitHub** | [My Notion Website]([https://opheliayfchen.carrd.co/](https://opheliayfchen.notion.site/OPHELIA-CHEN-2eb75dba9d938038ae7cdd9f46c52879))
 
-- 💬 Ask me about **Work in Tech | Data | CareerTransition | AI LLMs**
+- 💬 Ask me about **Work in Tech | Data | CareerTransition | Vibe Coding
 
-- 📫 How to reach me give me a shout at **opheliachenyf@gmail.com**
+- 📫 How to reach me: give me a shout at **[LinkedIn](https://www.linkedin.com/in/opheliandata/)** 
 
 - ⚡ Fun fact **I was a police officer for 10 years in 🇹🇼**
 
