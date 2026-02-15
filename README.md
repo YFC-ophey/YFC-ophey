@@ -8,7 +8,7 @@
 
 - 👨‍💻 My projects are available at **GitHub** | [My Notion Website]([https://opheliayfchen.carrd.co/](https://opheliayfchen.notion.site/OPHELIA-CHEN-2eb75dba9d938038ae7cdd9f46c52879))
 
-- 💬 Ask me about **Work in Tech | Data | CareerTransition | Vibe Coding
+- 💬 Ask me about **Work in Tech | Data | CareerTransition | Vibe Coding Diary**
 
 - 📫 How to reach me: give me a shout at **[LinkedIn](https://www.linkedin.com/in/opheliandata/)** 
 
