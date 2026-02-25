@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yfc-ophey&label=Profile%20views&color=0e75b6&style=flat" alt="yfc-ophey" /> </p>
 
 
-- 👨‍💻 My projects are available at **GitHub** | [My Notion Website](https://opheliayfchen.notion.site/OPHELIA-CHEN-2eb75dba9d938038ae7cdd9f46c52879)
+- 👨‍💻 My projects are available at **GitHub** | [My Notion Website](https://opheliayfchen.notion.site/yfc?source=copy_link)
 
 - 💬 Ask me about **Work in Tech | Data | CareerTransition | Vibe Coding Diary**
 
