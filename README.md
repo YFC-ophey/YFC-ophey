@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ophelia Chen</h1>
-<h3 align="center"> Techinical Analyst @StackAdapt | Business Analytics @Humber</h3>
+<h3 align="center"> AI X Ads @StackAdapt | Business Analytics @Humber</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yfc-ophey&label=Profile%20views&color=0e75b6&style=flat" alt="yfc-ophey" /> </p>
 
