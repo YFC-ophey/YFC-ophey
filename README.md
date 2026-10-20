@@ -1,52 +1,57 @@
 <div align="center">
 
-# 👾 OPHELIA.EXE
+# ▣ OPHELIA CHEN
 
-### AI × Ads · Data · Builder
+### DATA × AI × ADVERTISING
 
-**Turning data into useful systems — and ideas into things you can click.**
+**Making the complicated feel buildable.**
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F5D4)](https://www.linkedin.com/in/opheliandata/)
-[![Notion](https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=notion&logoColor=00F5D4)](https://opheliayfchen.notion.site/yfc?source=copy_link)
-[![Medium](https://img.shields.io/badge/MEDIUM-0A0A0A?style=for-the-badge&logo=medium&logoColor=00F5D4)](https://medium.com/@fenfen201022)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-102326?style=for-the-badge&logo=linkedin&logoColor=8CFFB7)](https://www.linkedin.com/in/opheliandata/) [![Portfolio](https://img.shields.io/badge/OPEN-PORTFOLIO-102326?style=for-the-badge&logo=notion&logoColor=8CFFB7)](https://opheliayfchen.notion.site/yfc?source=copy_link) [![Medium](https://img.shields.io/badge/READ-MEDIUM-102326?style=for-the-badge&logo=medium&logoColor=8CFFB7)](https://medium.com/@fenfen201022)
 
 </div>
 
----
-
 ```text
-┌─ [ CURRENT BUILD ]
-│  AI × Ads @ StackAdapt
-│  Exploring the overlap between data, automation, and practical AI.
-└─ [ STATUS ] curious.exe is running
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  PIXEL LAB // BUILD 001                                  ┃
+┃                                                         ┃
+┃  OPHELIA CHEN                                            ┃
+┃  ROLE ....... AI × Ads @ StackAdapt                     ┃
+┃  FOCUS ...... Data / Automation / Practical AI          ┃
+┃  PRINCIPLE .. Make useful things. Keep learning.         ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-## ▸ About
+## ▣ WHAT I DO
 
-I work at the intersection of **AI, advertising, and data**. I like making complex workflows clearer, building small tools that solve real problems, and documenting what I learn along the way.
+I work where **AI, advertising, and data** meet. I enjoy clarifying messy workflows, shaping them into useful tools, and writing down the lessons from each experiment.
 
-- **Working on:** AI × Ads at [StackAdapt](https://www.stackadapt.com/)
-- **Building:** [GitHub projects](https://github.com/YFC-ophey) and a [portfolio on Notion](https://opheliayfchen.notion.site/yfc?source=copy_link)
-- **Writing about:** tech, data, career transitions, and my vibe-coding diary
-- **Ask me about:** work in tech, data, or changing careers
-- **Unexpected backstory:** I was a police officer in Taiwan for 10 years 🇹🇼
+| SIGNAL | DETAILS |
+|:--|:--|
+| `NOW` | AI × Ads at [StackAdapt](https://www.stackadapt.com/) |
+| `BUILD` | [GitHub](https://github.com/YFC-ophey) · [Notion portfolio](https://opheliayfchen.notion.site/yfc?source=copy_link) |
+| `WRITE` | Tech, data, career transitions, and vibe-coding diary |
+| `ORIGIN` | Former police officer in Taiwan — 10 years 🇹🇼 |
 
-## ▸ Toolkit
+## ▣ BUILD SELECT
 
-<p>
-  <img src="https://img.shields.io/badge/Cassandra-151515?style=flat-square&logo=apachecassandra&logoColor=00F5D4" alt="Cassandra" />
-  <img src="https://img.shields.io/badge/Apache_Hive-151515?style=flat-square&logo=apachehive&logoColor=00F5D4" alt="Apache Hive" />
-  <img src="https://img.shields.io/badge/MongoDB-151515?style=flat-square&logo=mongodb&logoColor=00F5D4" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-151515?style=flat-square&logo=microsoftsqlserver&logoColor=00F5D4" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/MySQL-151515?style=flat-square&logo=mysql&logoColor=00F5D4" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-151515?style=flat-square&logo=postgresql&logoColor=00F5D4" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-151515?style=flat-square&logo=sqlite&logoColor=00F5D4" alt="SQLite" />
-</p>
+> `01 / THE BEAN KEEPER`  
+> A mobile-first coffee journal with AI photo scanning, bilingual support, and Notion-backed collections.  
+> [↗ Open the live app](https://the-bean-keeper.onrender.com) · [Source](https://github.com/YFC-ophey/The-Bean-Keeper)
+
+> `02 / GTA TENNIS CLUBS DATA PORTAL`  
+> A Wimbledon-inspired club finder and data dashboard for exploring tennis clubs across the Greater Toronto Area.  
+> [↗ Open the live portal](https://yfc-ophey.github.io/GTA-tennis-clubs-waitlist/) · [Source](https://github.com/YFC-ophey/GTA-tennis-clubs-waitlist)
+
+> `03 / PROMPT LIBRARY COLLECTOR`  
+> A Chrome extension that collects prompts from web pages into a local Markdown library and an optional Notion page.  
+> [Source](https://github.com/YFC-ophey/prompt-library-collector)
+
+## ▣ TOOL GRID
+
+`DATABASES`　Cassandra · Hive · MongoDB · Microsoft SQL Server · MySQL · PostgreSQL · SQLite
 
 <div align="center">
 
-`01001111 01010000 01001000 01000101 01001100 01001001 01000001`
-
-**Thanks for dropping by. Stay curious.** ✦
+`[ END OF TRANSMISSION ]`
 
 </div>
