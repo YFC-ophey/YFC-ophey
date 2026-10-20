@@ -13,6 +13,13 @@
 <div align="center">
 <table align="center">
 <tr>
+<td align="center" valign="middle">
+<img src="./assets/chobi-vibe-coding-buddy.gif" width="128" alt="Chobi, my vibe coding buddy" /><br />
+<strong>CHOBI</strong><br />
+<sub>MY VIBE CODING BUDDY</sub>
+</td>
+</tr>
+<tr>
 <td>
 <pre>
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
@@ -24,11 +31,6 @@
 ┃  PRINCIPLE .. Make useful things. Keep learning.         ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
-</td>
-<td align="center" valign="middle">
-<img src="./assets/chobi-vibe-coding-buddy.gif" width="128" alt="Chobi, my vibe coding buddy" /><br />
-<strong>CHOBI</strong><br />
-<sub>MY VIBE CODING BUDDY</sub>
 </td>
 </tr>
 </table>
