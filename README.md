@@ -30,7 +30,7 @@ I work where **AI, advertising, and data** meet. I enjoy clarifying messy workfl
 | `NOW` | AI × Ads at [StackAdapt](https://www.stackadapt.com/) |
 | `BUILD` | [GitHub](https://github.com/YFC-ophey) · [Notion portfolio](https://opheliayfchen.notion.site/yfc?source=copy_link) |
 | `WRITE` | Tech, data, career transitions, and vibe-coding diary |
-| `ORIGIN` | Former police officer in Taiwan — 10 years 🇹🇼 |
+| `ORIGIN` | Former police officer in Taiwan 🇹🇼, 10+ years |
 
 ## ▣ BUILD SELECT
 
@@ -45,10 +45,6 @@ I work where **AI, advertising, and data** meet. I enjoy clarifying messy workfl
 > `03 / PROMPT LIBRARY COLLECTOR`  
 > A Chrome extension that collects prompts from web pages into a local Markdown library and an optional Notion page.  
 > [Source](https://github.com/YFC-ophey/prompt-library-collector)
-
-## ▣ TOOL GRID
-
-`DATABASES`　Cassandra · Hive · MongoDB · Microsoft SQL Server · MySQL · PostgreSQL · SQLite
 
 <div align="center">
 
