@@ -17,6 +17,12 @@
 <pre>
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃  PIXEL LAB // BUILD 001                                  ┃
+┃                                                         ┃
+┃  OPHELIA CHEN                                            ┃
+┃  ROLE ....... AI × Ads @ StackAdapt                     ┃
+┃  FOCUS ...... Data / Automation / Practical AI          ┃
+┃  PRINCIPLE .. Make useful things. Keep learning.         ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 </td>
 </tr>
@@ -25,18 +31,6 @@
 <img src="./assets/chobi-vibe-coding-buddy.gif" width="128" alt="Chobi, my vibe coding buddy" /><br />
 <strong>CHOBI</strong><br />
 <sub>MY VIBE CODING BUDDY</sub>
-</td>
-</tr>
-<tr>
-<td>
-<pre>
-┃                                                         ┃
-┃  OPHELIA CHEN                                            ┃
-┃  ROLE ....... AI × Ads @ StackAdapt                     ┃
-┃  FOCUS ...... Data / Automation / Practical AI          ┃
-┃  PRINCIPLE .. Make useful things. Keep learning.         ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-</pre>
 </td>
 </tr>
 </table>
