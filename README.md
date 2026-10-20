@@ -6,7 +6,7 @@
 
 **Making the complicated feel buildable.**
 
-<a href="https://www.linkedin.com/in/opheliandata/"><img src="./assets/linkedin-badge.svg" alt="LinkedIn" /></a> [![Portfolio](https://img.shields.io/badge/-PORTFOLIO-102326?style=for-the-badge&logo=notion&logoColor=8CFFB7)](https://opheliayfchen.notion.site/yfc?source=copy_link)
+<a href="https://www.linkedin.com/in/opheliandata/"><img src="./assets/linkedin-button.svg" width="120" height="28" alt="LinkedIn" /></a> [![Portfolio](https://img.shields.io/badge/-PORTFOLIO-102326?style=for-the-badge&logo=notion&logoColor=8CFFB7)](https://opheliayfchen.notion.site/yfc?source=copy_link)
 
 </div>
 
