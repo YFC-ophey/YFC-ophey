@@ -16,7 +16,7 @@
 <td align="center" valign="middle">
 <img src="./assets/ophelia-vibe-coding-buddy-wink.gif" width="150" alt="Animated portrait of Ophelia in her Notion avatar style" /><br />
 <strong>OPHELIA</strong><br />
-<sub>THE HUMAN BEHIND THE BUILDS</sub>
+<sub></sub>
 </td>
 </tr>
 <tr>
