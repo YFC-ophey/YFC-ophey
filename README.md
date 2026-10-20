@@ -26,7 +26,7 @@
 </pre>
 </td>
 <td align="center" valign="middle">
-<img src="./assets/chobbi-pixel-pet.png" width="128" alt="Chobi, my vibe coding buddy" /><br />
+<img src="./assets/chobi-vibe-coding-buddy.gif" width="128" alt="Chobi, my vibe coding buddy" /><br />
 <strong>CHOBI</strong><br />
 <sub>MY VIBE CODING BUDDY</sub>
 </td>
