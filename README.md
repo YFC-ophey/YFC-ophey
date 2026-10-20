@@ -6,11 +6,14 @@
 
 **Making the complicated feel buildable.**
 
-[![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-102326?style=for-the-badge&logo=linkedin&logoColor=8CFFB7)](https://www.linkedin.com/in/opheliandata/) [![Portfolio](https://img.shields.io/badge/OPEN-PORTFOLIO-102326?style=for-the-badge&logo=notion&logoColor=8CFFB7)](https://opheliayfchen.notion.site/yfc?source=copy_link) [![Medium](https://img.shields.io/badge/READ-MEDIUM-102326?style=for-the-badge&logo=medium&logoColor=8CFFB7)](https://medium.com/@fenfen201022)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-102326?style=for-the-badge&logo=linkedin&logoColor=8CFFB7)](https://www.linkedin.com/in/opheliandata/) [![Portfolio](https://img.shields.io/badge/OPEN-PORTFOLIO-102326?style=for-the-badge&logo=notion&logoColor=8CFFB7)](https://opheliayfchen.notion.site/yfc?source=copy_link)
 
 </div>
 
-```text
+<div align="center">
+<table align="center">
+<tr><td>
+<pre>
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃  PIXEL LAB // BUILD 001                                  ┃
 ┃                                                         ┃
@@ -19,7 +22,10 @@
 ┃  FOCUS ...... Data / Automation / Practical AI          ┃
 ┃  PRINCIPLE .. Make useful things. Keep learning.         ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+</pre>
+</td></tr>
+</table>
+</div>
 
 ## ▣ WHAT I DO
 
@@ -28,8 +34,8 @@ I work where **AI, advertising, and data** meet. I enjoy clarifying messy workfl
 | SIGNAL | DETAILS |
 |:--|:--|
 | `NOW` | AI × Ads at [StackAdapt](https://www.stackadapt.com/) |
-| `BUILD` | [GitHub](https://github.com/YFC-ophey) · [Notion portfolio](https://opheliayfchen.notion.site/yfc?source=copy_link) |
-| `WRITE` | Tech, data, career transitions, and vibe-coding diary |
+| `BUILD` | [The Bean Keeper](https://github.com/YFC-ophey/The-Bean-Keeper) · [ROAST.](https://github.com/YFC-ophey/Top-100-Best-CoffeeShops) · [Prompt Library Collector](https://github.com/YFC-ophey/prompt-library-collector) |
+| `SKILLS` | AI × Ads · Data · Automation · Practical AI |
 | `ORIGIN` | Former police officer in Taiwan 🇹🇼, 10+ years |
 
 ## ▣ BUILD SELECT
