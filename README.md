@@ -40,12 +40,12 @@
 <sub>MY VIBE CODING BUDDY</sub>
 <pre>
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  CHOBI // VIBE CODING BUDDY                             ┃
+┃  CHOBI // CVO = Chief Vibe Officer                       ┃
 ┃                                                         ┃
 ┃  PERSONALITY .. Foodie, creative, a little chaotic.      ┃
 ┃  SPECIALTY .... Turns “what if?” into “it works.”       ┃
 ┃  FUEL ......... Coffee, cuddles, one more prototype.    ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ┛
 </pre>
 </td>
 </tr>
