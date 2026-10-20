@@ -14,7 +14,7 @@
 <table align="center">
 <tr>
 <td align="center" valign="middle">
-<img src="./assets/ophelia-profile-with-interests.gif" width="180" alt="Animated portrait of Ophelia in her Notion avatar style" /><br />
+<img src="./assets/ophelia-profile-with-interests-racket.gif" width="180" alt="Animated portrait of Ophelia in her Notion avatar style" /><br />
 <strong>OPHELIA</strong><br />
 <sub></sub>
 </td>
