@@ -2,7 +2,7 @@
 
 # ▣ OPHELIA CHEN
 
-### DATA × AI × ADVERTISING
+### DATA × AI × MARKETING
 
 **Making the complicated feel buildable.**
 
