@@ -38,9 +38,9 @@ I work where **AI, advertising, and data** meet. I enjoy clarifying messy workfl
 > A mobile-first coffee journal with AI photo scanning, bilingual support, and Notion-backed collections.  
 > [↗ Open the live app](https://the-bean-keeper.onrender.com) · [Source](https://github.com/YFC-ophey/The-Bean-Keeper)
 
-> `02 / GTA TENNIS CLUBS DATA PORTAL`  
-> A Wimbledon-inspired club finder and data dashboard for exploring tennis clubs across the Greater Toronto Area.  
-> [↗ Open the live portal](https://yfc-ophey.github.io/GTA-tennis-clubs-waitlist/) · [Source](https://github.com/YFC-ophey/GTA-tennis-clubs-waitlist)
+> `02 / ROAST. — WORLD'S 100 BEST COFFEE SHOPS`  
+> An interactive map explorer for the World's 100 Best Coffee Shops, with current and archived editions, regional collections, and shop details.  
+> [↗ Open the live map](https://yfc-ophey.github.io/Top-100-Best-CoffeeShops/) · [Source](https://github.com/YFC-ophey/Top-100-Best-CoffeeShops)
 
 > `03 / PROMPT LIBRARY COLLECTOR`  
 > A Chrome extension that collects prompts from web pages into a local Markdown library and an optional Notion page.  
