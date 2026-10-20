@@ -31,6 +31,15 @@
 <img src="./assets/chobi-vibe-coding-buddy.gif" width="128" alt="Chobi, my vibe coding buddy" /><br />
 <strong>CHOBI</strong><br />
 <sub>MY VIBE CODING BUDDY</sub>
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  CHOBI // VIBE CODING BUDDY                             ┃
+┃                                                         ┃
+┃  PERSONALITY .. Curious, loyal, a little chaotic.       ┃
+┃  SPECIALTY .... Turns “what if?” into “it works.”      ┃
+┃  FUEL ......... Coffee, cuddles, one more prototype.    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
 </td>
 </tr>
 </table>
