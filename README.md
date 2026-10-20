@@ -6,12 +6,19 @@
 
 **Making the complicated feel buildable.**
 
-<a href="https://www.linkedin.com/in/opheliandata/"><img align="absmiddle" src="https://cdn.simpleicons.org/linkedin/8CFFB7" height="20" alt="LinkedIn logo" /> <img align="absmiddle" src="https://img.shields.io/badge/LINKEDIN-102326?style=for-the-badge" alt="LinkedIn" /></a> [![Portfolio](https://img.shields.io/badge/-PORTFOLIO-102326?style=for-the-badge&logo=notion&logoColor=8CFFB7)](https://opheliayfchen.notion.site/yfc?source=copy_link)
+<a href="https://www.linkedin.com/in/opheliandata/"><img align="absmiddle" src="./assets/linkedin-mark.svg" height="20" alt="LinkedIn logo" /> <img align="absmiddle" src="https://img.shields.io/badge/LINKEDIN-102326?style=for-the-badge" alt="LinkedIn" /></a> [![Portfolio](https://img.shields.io/badge/-PORTFOLIO-102326?style=for-the-badge&logo=notion&logoColor=8CFFB7)](https://opheliayfchen.notion.site/yfc?source=copy_link)
 
 </div>
 
 <div align="center">
 <table align="center">
+<tr>
+<td align="center" valign="middle">
+<img src="./assets/ophelia-vibe-coding-buddy.gif" width="120" alt="Animated portrait of Ophelia in her Notion avatar style" /><br />
+<strong>OPHELIA</strong><br />
+<sub>THE HUMAN BEHIND THE BUILDS</sub>
+</td>
+</tr>
 <tr>
 <td>
 <pre>
@@ -28,13 +35,6 @@
 </tr>
 <tr>
 <td align="center" valign="middle">
-<img src="./assets/ophelia-vibe-coding-buddy.gif" width="120" alt="Animated portrait of Ophelia in her Notion avatar style" /><br />
-<strong>OPHELIA</strong><br />
-<sub>THE HUMAN BEHIND THE BUILDS</sub>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
 <img src="./assets/chobi-vibe-coding-buddy.gif" width="128" alt="Chobi, my vibe coding buddy" /><br />
 <strong>CHOBI</strong><br />
 <sub>MY VIBE CODING BUDDY</sub>
@@ -42,8 +42,8 @@
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃  CHOBI // VIBE CODING BUDDY                             ┃
 ┃                                                         ┃
-┃  PERSONALITY .. Foodie, creative, a little chaotic.       ┃
-┃  SPECIALTY .... Turns “what if?” into “it works.”      ┃
+┃  PERSONALITY .. Foodie, creative, a little chaotic.      ┃
+┃  SPECIALTY .... Turns “what if?” into “it works.”       ┃
 ┃  FUEL ......... Coffee, cuddles, one more prototype.    ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
