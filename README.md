@@ -13,6 +13,14 @@
 <div align="center">
 <table align="center">
 <tr>
+<td>
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  PIXEL LAB // BUILD 001                                  ┃
+</pre>
+</td>
+</tr>
+<tr>
 <td align="center" valign="middle">
 <img src="./assets/chobi-vibe-coding-buddy.gif" width="128" alt="Chobi, my vibe coding buddy" /><br />
 <strong>CHOBI</strong><br />
@@ -22,8 +30,6 @@
 <tr>
 <td>
 <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  PIXEL LAB // BUILD 001                                  ┃
 ┃                                                         ┃
 ┃  OPHELIA CHEN                                            ┃
 ┃  ROLE ....... AI × Ads @ StackAdapt                     ┃
