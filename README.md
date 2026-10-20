@@ -12,7 +12,8 @@
 
 <div align="center">
 <table align="center">
-<tr><td>
+<tr>
+<td>
 <pre>
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃  PIXEL LAB // BUILD 001                                  ┃
@@ -23,7 +24,11 @@
 ┃  PRINCIPLE .. Make useful things. Keep learning.         ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
-</td></tr>
+</td>
+<td align="center" valign="middle">
+<img src="./assets/chobbi-pixel-pet.png" width="128" alt="Chobbi, my pixel-art companion" />
+</td>
+</tr>
 </table>
 </div>
 
