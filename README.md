@@ -10,8 +10,6 @@
 [![Notion](https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=notion&logoColor=00F5D4)](https://opheliayfchen.notion.site/yfc?source=copy_link)
 [![Medium](https://img.shields.io/badge/MEDIUM-0A0A0A?style=for-the-badge&logo=medium&logoColor=00F5D4)](https://medium.com/@fenfen201022)
 
-![Profile views](https://komarev.com/ghpvc/?username=yfc-ophey&label=PROFILE%20VIEWS&color=00F5D4&style=flat-square)
-
 </div>
 
 ---
