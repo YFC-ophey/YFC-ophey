@@ -6,7 +6,7 @@
 
 **Making the complicated feel buildable.**
 
-<a href="https://www.linkedin.com/in/opheliandata/"><img align="absmiddle" src="./assets/linkedin-mark.svg" height="20" alt="LinkedIn logo" /> <img align="absmiddle" src="https://img.shields.io/badge/LINKEDIN-102326?style=for-the-badge" alt="LinkedIn" /></a> [![Portfolio](https://img.shields.io/badge/-PORTFOLIO-102326?style=for-the-badge&logo=notion&logoColor=8CFFB7)](https://opheliayfchen.notion.site/yfc?source=copy_link)
+<a href="https://www.linkedin.com/in/opheliandata/"><img src="./assets/linkedin-badge.svg" alt="LinkedIn" /></a> [![Portfolio](https://img.shields.io/badge/-PORTFOLIO-102326?style=for-the-badge&logo=notion&logoColor=8CFFB7)](https://opheliayfchen.notion.site/yfc?source=copy_link)
 
 </div>
 
@@ -14,7 +14,7 @@
 <table align="center">
 <tr>
 <td align="center" valign="middle">
-<img src="./assets/ophelia-vibe-coding-buddy.gif" width="120" alt="Animated portrait of Ophelia in her Notion avatar style" /><br />
+<img src="./assets/ophelia-vibe-coding-buddy-wink.gif" width="150" alt="Animated portrait of Ophelia in her Notion avatar style" /><br />
 <strong>OPHELIA</strong><br />
 <sub>THE HUMAN BEHIND THE BUILDS</sub>
 </td>
