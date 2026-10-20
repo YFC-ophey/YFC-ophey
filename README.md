@@ -43,7 +43,7 @@ I work where **AI, data, and marketing** meet. I enjoy clarifying messy workflow
 | `NOW` | AI × Ads at [StackAdapt](https://www.stackadapt.com/) |
 | `BUILD` | [The Bean Keeper](https://github.com/YFC-ophey/The-Bean-Keeper) · [ROAST.](https://github.com/YFC-ophey/Top-100-Best-CoffeeShops) · [Prompt Library Collector](https://github.com/YFC-ophey/prompt-library-collector) & more |
 | `SKILLS` | Data · Automation · AI Enablement |
-| `ORIGIN` | Former police officer in Taiwan 🇹🇼, 10+ years |
+| `ORIGIN` | Former police officer in Taiwan 🇹🇼 10+ years |
 
 ## ▣ BUILD SELECT
 
