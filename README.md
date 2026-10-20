@@ -35,7 +35,7 @@
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃  CHOBI // VIBE CODING BUDDY                             ┃
 ┃                                                         ┃
-┃  PERSONALITY .. Curious, loyal, a little chaotic.       ┃
+┃  PERSONALITY .. Foodie, creative, a little chaotic.       ┃
 ┃  SPECIALTY .... Turns “what if?” into “it works.”      ┃
 ┃  FUEL ......... Coffee, cuddles, one more prototype.    ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
