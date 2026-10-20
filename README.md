@@ -26,7 +26,9 @@
 </pre>
 </td>
 <td align="center" valign="middle">
-<img src="./assets/chobbi-pixel-pet.png" width="128" alt="Chobbi, my pixel-art companion" />
+<img src="./assets/chobbi-pixel-pet.png" width="128" alt="Chobi, my vibe coding buddy" /><br />
+<strong>CHOBI</strong><br />
+<sub>MY VIBE CODING BUDDY</sub>
 </td>
 </tr>
 </table>
