@@ -29,7 +29,7 @@
 
 ## ▣ WHAT I DO
 
-I work where **AI, advertising, and data** meet. I enjoy clarifying messy workflows, shaping them into useful tools, and writing down the lessons from each experiment.
+I work where **AI, data, and marketing** meet. I enjoy clarifying messy workflows, shaping them into useful tools, and writing down the lessons from each experiment.
 
 | SIGNAL | DETAILS |
 |:--|:--|
