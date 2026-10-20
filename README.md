@@ -43,12 +43,6 @@ I work at the intersection of **AI, advertising, and data**. I like making compl
   <img src="https://img.shields.io/badge/SQLite-151515?style=flat-square&logo=sqlite&logoColor=00F5D4" alt="SQLite" />
 </p>
 
-## ▸ Find me
-
-- [LinkedIn](https://www.linkedin.com/in/opheliandata/)
-- [Medium](https://medium.com/@fenfen201022)
-- [Portfolio](https://opheliayfchen.notion.site/yfc?source=copy_link)
-
 <div align="center">
 
 `01001111 01010000 01001000 01000101 01001100 01001001 01000001`
